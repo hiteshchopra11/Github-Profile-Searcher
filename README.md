@@ -3,10 +3,10 @@ Github Profile Searcher lets you search for your profile using Github Search API
 
 Libraries Used-:
 
-Retrofit
-Glide
-RecycleViewer
-Gson Converter
+Retrofit,
+Glide,
+RecycleViewer,
+,Gson Converter
 
 Link to the Github API documentation-:
 
