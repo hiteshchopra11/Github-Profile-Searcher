@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Magnum Hitesh</string>
+    <string name="description">GitHub profile finder helps you search for the specific item you want to find. For example, you can find a user or a specific file in a repository. Think of it the way you think of performing a search on Google. It\'s designed to help you find the one result you\'re looking for (or maybe the few results you\'re looking for).</string>
+</resources>
