@@ -15,3 +15,10 @@ https://developer.github.com/v3/search/#search-users
 Link to the APK-:
 
 https://drive.google.com/file/d/13PMil4nfoJvhsNb-X1o-jc8Dy5zUOQmM/view?usp=sharing
+
+
+Screenshots added-:
+
+1. https://user-images.githubusercontent.com/34310832/87855596-0c010880-c937-11ea-920e-02718404f5cb.png
+2. https://user-images.githubusercontent.com/34310832/87855602-13c0ad00-c937-11ea-9689-694c59288cb3.png
+3. https://user-images.githubusercontent.com/34310832/87855606-17ecca80-c937-11ea-98c0-a0c79c4e81ef.png
