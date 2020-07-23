@@ -1,4 +1,4 @@
-# MagnumHItesh
+# Github Profile Searcher
 Github Profile Searcher lets you search for your profile using Github Search API.It supports infinite scrolling using Recycler View Pagination.
 
 Libraries Used-:
